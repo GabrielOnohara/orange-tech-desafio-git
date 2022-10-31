@@ -1,0 +1,1 @@
+Sempre que houver versões mais atualizdas, o git mandará que seja feito um git pull para resolver os conflitos com o arquivo atual
